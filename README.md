@@ -14,4 +14,5 @@ This dataframe shows the total rides, drivers, fares, and average fare per ride 
 As you see from the PyBer summary graph, the urban cities have the highest total weekly fare and the rural cities have the lowest total weekly fare. 
 
 Summary
+
 Some recommendations to the CEO would be to balance out the driver count, balance the fare amount, and get rid of Nans from the dataset. The difference in the driver count and fare amount creates a big imbalance in the average fare per ride and drivers. Getting rid of Nans is also necessary as that can cause outliers in the data and really high fares in one city type compared to another.
